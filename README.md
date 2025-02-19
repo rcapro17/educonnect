@@ -7,14 +7,19 @@ Criar um sistema gamificado de incentivo à participação e frequência dos alu
 🎓 Para os Alunos:
 
 ✅ Perfis individuais (exibidos em telas no pátio/escola ou acessíveis na web).
+
 ✅ Acúmulo de estalecas baseadas na frequência, participação em eventos e desempenho.
+
 ✅ Visualização de ranking de alunos mais engajados.
+
 ✅ Possibilidade de trocar estalecas por recompensas.
 
 👩‍🏫 Para os Professores e Administradores:
 
 ✅ Atribuir estalecas para alunos por presença e atividades.
+
 ✅ Gerenciar os prêmios disponíveis e o catálogo de trocas.
+
 ✅ Relatórios sobre engajamento e participação.
 
 🏗 Arquitetura do Sistema:
