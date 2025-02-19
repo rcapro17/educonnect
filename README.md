@@ -4,7 +4,9 @@ Criar um sistema gamificado de incentivo à participação e frequência dos alu
 
 📌 Funcionalidades Principais:
 
+
 🎓 Para os Alunos:
+
 
 ✅ Perfis individuais (exibidos em telas no pátio/escola ou acessíveis na web).
 
@@ -14,7 +16,9 @@ Criar um sistema gamificado de incentivo à participação e frequência dos alu
 
 ✅ Possibilidade de trocar estalecas por recompensas.
 
+
 👩‍🏫 Para os Professores e Administradores:
+
 
 ✅ Atribuir estalecas para alunos por presença e atividades.
 
@@ -22,7 +26,9 @@ Criar um sistema gamificado de incentivo à participação e frequência dos alu
 
 ✅ Relatórios sobre engajamento e participação.
 
+
 🏗 Arquitetura do Sistema:
+
 
 1️⃣ Backend (Flask + MySQL)
 
